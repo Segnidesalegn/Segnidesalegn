@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I enjoy learning new programming skills and solving puzzles in my free time!
 
 ## Project URL
-[Link to My Project](https://example.com/project-url)  <!-- Replace with your actual project URL -->
+[Link to My Project](https://github.com/Segnidesalegn/Segnidesalegn)
